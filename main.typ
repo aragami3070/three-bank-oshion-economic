@@ -6,3 +6,6 @@
 
 = Совком банк --- Ипотека
 #include "sovkom.typ"
+
+= Итоги (сравнение)
+#include "result.typ"
